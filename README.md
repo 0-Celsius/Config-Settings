@@ -42,4 +42,4 @@ Currently added items
         -- I've Attached the raw file settings
             --- probably able to drop in you .obsidian and run 
 ##### Example Photo:
-[Example](https://github.com/0-Celsius/Config Settings/blob/Main/Obsidian Themes/Maple_ Neutral Color/src/example_1.png)
+[Example](https://github.com/0-Celsius/Config-Settings/blob/main/Obsidian%20Themes/Maple_%20Neutral%20Color/src/example_1.png)
