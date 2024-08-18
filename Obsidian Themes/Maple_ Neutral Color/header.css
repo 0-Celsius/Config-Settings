@@ -1,0 +1,14 @@
+.inline-title {color:  #b99aff; }
+.cm-header-1 { color: #2a8aff; }  
+.cm-header-2 { color: #2a8aff; }
+.cm-header-3 { color: #59d5c4; }
+.cm-header-4 { color: #59d5c4; }
+.cm-header-5 { color: #9ff369; }
+.cm-header-6 { color: #9ff369; }
+
+hr cm-line{
+    color: black;
+}
+.workspace-leaf-resize-handle{
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.2); 
+}
