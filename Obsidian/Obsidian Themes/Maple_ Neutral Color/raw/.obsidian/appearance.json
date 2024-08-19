@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Maple",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "header"
+  ],
+  "accentColor": "#d4bfaf",
+  "baseFontSize": 20
+}

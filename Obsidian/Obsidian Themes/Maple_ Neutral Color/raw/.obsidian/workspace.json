@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "5c8092306f0c7ae8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f84ce8b7e777582e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa1cfa0bcf1e5833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 - Studying Materials/Leetcode/Notes/Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "048d1951811a59b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce25926b793837ae",
+        "type": "tabs",
+        "dimension": 37.409200968523,
+        "children": [
+          {
+            "id": "729124003462d59b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "76ddbe0813b49d42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "c987f",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b7b365aca4f6990",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "961b099a15919aeb",
+        "type": "tabs",
+        "dimension": 62.590799031477,
+        "children": [
+          {
+            "id": "b184d0f5fa3c2e95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0493cfa52a9bd104",
+    "type": "split",
+    "children": [
+      {
+        "id": "24fb639268c8b07d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6929a23ab7acb8be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "08 - Studying Materials/Leetcode/Notes/Arrays.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2e1238157d7d85d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "08 - Studying Materials/Leetcode/Notes/Arrays.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a43ff96f1b448032",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51c859257fc8b34e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "08 - Studying Materials/Leetcode/Notes/Arrays.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "b184d0f5fa3c2e95",
+  "lastOpenFiles": [
+    "08 - Studying Materials/University/Fall 2024",
+    "08 - Studying Materials/University",
+    "08 - Studying Materials/Leetcode/Notes/Linked Lists.md",
+    "08 - Studying Materials/Leetcode/Linked List Problems/Reversing A Linked List/Reversing a Linked List.md",
+    "08 - Studying Materials/Leetcode/Linked List Problems/Reversing A Linked List/Linked List Visualization Attempt.canvas",
+    "09 - Journal/Dailies/Saturday, August (8) 17th 2024, #33.md",
+    "09 - Journal/Dailies/Sunday, August (8) 18th 2024, #33.md",
+    "09 - Journal/Dailys/Saturday, August (8) 6th 2024,.md",
+    "09 - Journal/Dailys"
+  ]
+}
